@@ -1,0 +1,1 @@
+/home/staff/csit-ansible/bin/studenthash.py3
